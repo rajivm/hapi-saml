@@ -1,0 +1,15 @@
+{
+  "name": "hapi-saml",
+  "version": "0.0.1",
+  "description": "Hapi plugin for passport-saml",
+  "main": "index.js",
+  "dependencies": {
+    "passport-saml": "^0.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajiv Makhijani",
+  "license": "BSD-2-Clause"
+}
